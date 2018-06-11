@@ -9,4 +9,5 @@
 **Tomorrow's TODO**: Clean up the logic for looping through the encode logic and make it more generic.
 
 **Link to challenge description:** [Code challenge](https://www.reddit.com/r/dailyprogrammer/comments/8n8tog/20180530_challenge_362_intermediate_route/)
+
 **Link to work:** [My solution on GitHub](https://github.com/azaleax/dailyprogrammer-challenges/tree/master/challenge-362-route-cipher)
