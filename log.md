@@ -6,8 +6,19 @@
 
 **Thoughts:** Writing the code took longer than expected. The challenge is still not done and needs to be worked on more. Cleanup and full implementation still pending.
 
-**Tomorrow's TODO**: Clean up the logic for looping through the encode logic and make it more generic.
+**Tomorrow's Todo**: Clean up the logic for looping through the encode logic and make it more generic.
 
 **Link to challenge description:** [Code challenge](https://www.reddit.com/r/dailyprogrammer/comments/8n8tog/20180530_challenge_362_intermediate_route/)
+
+**Link to work:** [My solution on GitHub](https://github.com/azaleax/dailyprogrammer-challenges/tree/master/challenge-362-route-cipher)
+
+
+### Day 1: June 11, 2018 (Monday)
+
+**Today's Progress**: Continued to polish the r/dailyprogrammer challenge \#362
+
+**Thoughts:** This challenge has been trickier than I initially thought. Yesterday's implementation was fairly hard-coded and ugly. Tried to beautify it more today.
+
+**Tomorrow's Todo**: Continue with logic cleanup and code cleanup
 
 **Link to work:** [My solution on GitHub](https://github.com/azaleax/dailyprogrammer-challenges/tree/master/challenge-362-route-cipher)
