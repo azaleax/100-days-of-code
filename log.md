@@ -22,3 +22,14 @@
 **Tomorrow's Todo**: Continue with logic cleanup and code cleanup
 
 **Link to work:** [My solution on GitHub](https://github.com/azaleax/dailyprogrammer-challenges/tree/master/challenge-362-route-cipher)
+
+
+### Day 2: June 12, 2018 (Tuesday)
+
+**Today's Progress**: Finished the r/dailyprogrammer challenge \#362
+
+**Thoughts:** Cleaned up and finished the challenge. Need to keep at challenges to improve thought process to speed up implementation.
+
+**Tomorrow's Todo**: Look into other challenges or start on a project.
+
+**Link to work:** [My solution on GitHub](https://github.com/azaleax/dailyprogrammer-challenges/tree/master/challenge-362-route-cipher)
