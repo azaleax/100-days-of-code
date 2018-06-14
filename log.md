@@ -35,7 +35,7 @@
 **Link to work:** [My solution on GitHub](https://github.com/azaleax/dailyprogrammer-challenges/tree/master/challenge-362-route-cipher)
 
 
-## Day 3: June 13, 2018 (Wednesday)
+### Day 3: June 13, 2018 (Wednesday)
 
 **Today's Progress**: No personal coding today, but attended a meetup for SD Regional Data Library on their project to collect & analyze SD water quality data. Looking forward to getting involved in a project to learn :)
 
