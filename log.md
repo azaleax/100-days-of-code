@@ -40,3 +40,10 @@
 **Today's Progress**: No personal coding today, but attended a meetup for SD Regional Data Library on their project to collect & analyze SD water quality data. Looking forward to getting involved in a project to learn :)
 
 **Link to their project site:** [SD Regional Data Library](https://www.sandiegodata.org/)
+
+
+## Day 4: June 14, 2018 (Thursday)
+
+**Today's Progress**: Started looking into Jupyter Notebook a bit to get familiar with its usage.
+
+**Weekend's Todo:** Get more familiar with using Python for data processing, and using Jupyter Notebook
