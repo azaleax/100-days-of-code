@@ -42,8 +42,15 @@
 **Link to their project site:** [SD Regional Data Library](https://www.sandiegodata.org/)
 
 
-## Day 4: June 14, 2018 (Thursday)
+### Day 4: June 14, 2018 (Thursday)
 
 **Today's Progress**: Started looking into Jupyter Notebook a bit to get familiar with its usage.
 
 **Weekend's Todo:** Get more familiar with using Python for data processing, and using Jupyter Notebook
+
+
+### Day 5: June 18, 2018 (Sunday)
+
+**Today's Progress**: Worked on Jupyter Notebook for river flow rate
+
+**Link to work:** [River Flow Rate](https://github.com/azaleax/practice-jupyter-notebook/blob/master/flow_rate/Flow%20Rate%20Data.ipynb)
