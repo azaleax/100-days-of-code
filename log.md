@@ -53,4 +53,11 @@
 
 **Today's Progress**: Worked on Jupyter Notebook for river flow rate
 
-**Link to work:** [River Flow Rate](https://github.com/azaleax/practice-jupyter-notebook/blob/master/flow_rate/Flow%20Rate%20Data.ipynb)
+**Link to work:** [River Flow Rate & Precipitation](https://github.com/azaleax/practice-jupyter-notebook/blob/master/flow_rate/Flow%20Rate%20Data.ipynb)
+
+
+### Day 6: June 19, 2018 (Monday)
+
+**Today's Progress**: Added precipitation to Jupyter Notebook
+
+**Link to work:** [River Flow Rate & Precipitation](https://github.com/azaleax/practice-jupyter-notebook/blob/master/flow_rate/Flow%20Rate%20Data.ipynb)
